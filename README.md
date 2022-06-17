@@ -1,6 +1,6 @@
 # halo2 cargo template
 
-A quick template using (cargo-generate)[https://github.com/cargo-generate/cargo-generate] to get up and running with halo2 as quick as possible. Also includes a small util for generating circuit layout images.
+A quick template using [cargo-generate](https://github.com/cargo-generate/cargo-generate) to get up and running with halo2 as quick as possible. Also includes a small util for generating circuit layout images.
 
 Credit to https://github.com/icemelon/halo2-examples for the original `example.rs` script
 
